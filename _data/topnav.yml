@@ -6,7 +6,7 @@ topnav:
     - title: GitHub
       external_url: https://github.com/hnphien
     - title: About
-      url: /news
+      url: /bosch.html
 
 #Topnav dropdowns
 # topnav_dropdowns:
