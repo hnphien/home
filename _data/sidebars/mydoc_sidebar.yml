@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Data Domain
-  version: 2.0
+  product: Jekyll Doc Theme
+  version: 6.0
   folders:
 
   - title:
@@ -18,31 +18,6 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: Data Fundamental
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
