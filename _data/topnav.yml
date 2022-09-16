@@ -5,7 +5,7 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/hnphien
-    - title: About
+    - title: About Me
       url: /bosch.html
 
 #Topnav dropdowns
