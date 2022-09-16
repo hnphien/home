@@ -12,13 +12,13 @@ entries:
       url: /news.html
       output: web
     - title: Asia Commercial Bank
-      url: /news.html
+      url: /news1.html
       output: web
     - title: FPT Software
-      url: /news.html
+      url: /news2.html
       output: web
     - title: Intel Product
-      url: /news.html
+      url: /news3.html
       output: web
 
 # Copyright 2021 Google LLC
