@@ -9,16 +9,16 @@ entries:
     output: web
     folderitems:
     - title: Bosch Global Software Technologies
-      url: /news.html
+      url: /bosch.html
       output: web
     - title: Asia Commercial Bank
-      url: /news1.html
+      url: /acb.html
       output: web
     - title: FPT Software
-      url: /news2.html
+      url: /fpt.html
       output: web
     - title: Intel Product
-      url: /news3.html
+      url: /intel.html
       output: web
 
 # Copyright 2021 Google LLC
