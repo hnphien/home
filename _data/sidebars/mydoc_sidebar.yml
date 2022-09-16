@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Big Data Usecases
+  - title: Big Data Reference
     output: web, pdf
     folderitems:
 
