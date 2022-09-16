@@ -107,7 +107,7 @@ Here's a list with some intercepting text:
 
     This is a result statement that talks about something....
 
-2.  Continuing the list
+2.  Continuing the list Phien Huynh
 
     {% include note.html content="Remember to do this. If you have \"quotes\", you must escape them." %}
 
