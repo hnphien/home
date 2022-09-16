@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Big Data
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Data Fundamental
       url: /index.html
       output: web, pdf
       type: homepage
@@ -44,7 +44,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Data Warehousing
     output: web, pdf
     folderitems:
 
@@ -56,7 +56,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: Basic Data Modeling
     output: web, pdf
     folderitems:
 
@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Data Vault 2.0 Modeling
     output: web, pdf
 
     folderitems:
