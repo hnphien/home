@@ -1,10 +1,10 @@
 ---
-title: "Getting started with my knowledge collection on data domain"
+title: "Getting started with my knowledge collection in the data domain"
 keywords: sample homepage
 tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This page is writting on my own with my professional experience. Some of them is referenced from multiple of sources, it will be noted.
+summary: This page is written on my own with my professional experience. Some of them are referenced from multiple sources, so it will be noted.
 ---
 
 {% include note.html content="If you're interesting on my usecases, please contact me via hnphien12345@gmail.com or feedback botton above. %}
