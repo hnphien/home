@@ -13,9 +13,9 @@ summary: This page is writting on my own with my professional experience. Some o
 
 Follow these instructions to build your skils.
 
-### 1. Big data platform
+### 1. Big Data Platform
 
-### 2. Data warehousing
+### 2. Data Warehousing
 
 ### 3. Data Modeling
 
