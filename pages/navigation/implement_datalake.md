@@ -24,6 +24,6 @@ Guidelines to design a data lakehouse using various of big data open source tech
 Developers and all others person involved in the data domain.
 
 ## 2. Reference Architecture
-
+{% include image.html file="ardl_0201.png" caption="Data Platform Architecture" %}
 
 {% include links.html %}
