@@ -7,7 +7,7 @@ permalink: index.html
 summary: This page is written on my own with my professional experience. Some of them are referenced from multiple sources, so it will be noted.
 ---
 
-{% include note.html content="If you're interesting on my usecases, please contact me via hnphien12345@gmail.com or feedback botton above." %}
+{% include note.html content="If you’re interested in my use cases, please contact me via hnphien12345@gmail.com or the feedback button above." %}
 
 ## Page contents
 
