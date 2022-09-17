@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Page Overview
-      url: /index.html
+      url: /index_sample.html
       output: web, pdf
       type: homepage
 
