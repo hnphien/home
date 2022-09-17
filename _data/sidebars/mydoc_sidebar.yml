@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Data Fundamental
+    - title: Page Overview
       url: /index.html
       output: web, pdf
       type: homepage
