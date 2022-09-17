@@ -1,7 +1,7 @@
 ---
 title: "Getting started with my knowledge collection in the data domain"
 keywords: sample homepage
-tags: 
+tags: big_data
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This page is written on my own with my professional experience. Some of them are referenced from multiple sources, so it will be noted.
