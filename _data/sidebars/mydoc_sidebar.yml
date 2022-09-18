@@ -108,6 +108,14 @@ entries:
     #   url: /mydoc_atom_text_editor.html
     #   output: web, pdf
 
+  - title: VBA Programing
+    output: web, pdf
+    folderitems:
+
+  - title: Robotic Process Automation
+    output: web, pdf
+    folderitems:
+
   - title: Others
     output: web, pdf
     folderitems:
