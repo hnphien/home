@@ -2,7 +2,7 @@
 title: News
 sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: bosch.html
+permalink: bosch_old.html
 toc: false
 folder: news
 ---
