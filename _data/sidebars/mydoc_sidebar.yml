@@ -76,9 +76,9 @@ entries:
     output: web, pdf
     folderitems:
 
-    # - title: Pages
-    #   url: /mydoc_pages.html
-    #   output: web, pdf
+    - title: Implement Hierachy Database
+      url: /implement_hierachy_data.html
+      output: web, pdf
 
     # - title: Posts
     #   url: /mydoc_posts.html
