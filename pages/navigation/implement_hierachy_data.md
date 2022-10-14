@@ -12,16 +12,14 @@ Author: Huynh Ngoc Phien - Data Engineer
 
 ## 1. Preamble
 
-### What is the DataLake?
-Data Lakes allow you to store relational data like operational databases and data from line of business applications, and non-relational data like mobile apps, IoT devices, and social media. They also give you the ability to understand what data is in the lake through crawling, cataloging, and indexing of data.
+### What is the Data Vault 2.0?
+You can find here: https://en.wikipedia.org/wiki/Data_vault_modeling#Basic_notions
 
-### Purpose
-Guidelines to design a data lakehouse using various of big data open source technologies.
+### What is Hierachy Data?
+You can find here: https://en.wikipedia.org/wiki/Data_hierarchy
 
-### Target
-Developers and all others person involved in the data domain.
+## 2. Implement solution
 
-## 2. Solution
 
 
 

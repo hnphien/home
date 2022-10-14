@@ -76,6 +76,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Introduction
+      url: /introduction_datavault.html
+      output: web, pdf
+
     - title: Implement Hierachy Database
       url: /implement_hierachy_data.html
       output: web, pdf
