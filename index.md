@@ -21,7 +21,7 @@ Follow these instructions to build your skils.
 
 ### 4. Cloud sevices
 
-### 5. Cloud sevices
+### 5. Robotic Process Automation
 
 ### 6. Other instructions
 
