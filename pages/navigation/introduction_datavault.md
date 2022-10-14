@@ -1,10 +1,10 @@
 ---
-title: "Hierachy Database"
+title: "Data Vault 2.0"
 keywords: sample homepage
 tags: 
 sidebar: mydoc_sidebar
-permalink: implement_hierachy_data.html
-summary: This page will help you to model the hierachy dataset using Data Vault 2.0
+permalink: introduction_datavault.html
+summary: This page will help to introduce about Data Vault 2.0 modeling
 folder: navigation
 ---
 

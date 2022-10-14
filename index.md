@@ -17,9 +17,9 @@ Follow these instructions to build your skils.
 
 ### 2. Data Warehousing
 
-### 3. Data Modeling
+### 3. Data Vault 2.0 Modeling
 
-### 4. Data Vault 2.0 Modeling
+### 4. Cloud sevices
 
 ### 5. Cloud sevices
 
