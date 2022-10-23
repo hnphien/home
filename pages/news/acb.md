@@ -2,7 +2,7 @@
 title: "Asia Comercial Bank"
 keywords: sample homepage
 tags: 
-sidebar: news_sidebar
+sidebar: home_sidebar
 permalink: acb.html
 summary: Experience at Asia Comercial Bank.
 folder: news

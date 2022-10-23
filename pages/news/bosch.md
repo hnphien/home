@@ -2,7 +2,7 @@
 title: "Bosch Global Software Technologies"
 keywords: sample homepage
 tags: 
-sidebar: news_sidebar
+sidebar: home_sidebar
 permalink: bosch.html
 summary: Experience at Bosch Global Software Technologies.
 folder: news
