@@ -14,7 +14,7 @@ Big Data Platform:
 - Develop a new feature of ingestion ETL layer from multiple sources to HDFS.
 - Big Data batch and streaming processing using Apache Spark.
 - Debug and optimize Hadoop jobs.
-- Develop the loaders, transform the data and running the entire big data pipeline.
+- Develop the loaders, transform the data and running the entire big data pipeline. 
 Data Warehouse:
 - Work in global team to design stable, reliable and effective databases with Data Vault 2.0 for Enterprise Data Warehouse of Robert Bosch GmbH.
 - Ensure all database programs meet company and performance requirements
