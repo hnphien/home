@@ -2,7 +2,7 @@
 title: "Intel"
 keywords: sample homepage
 tags: 
-sidebar: mydoc_sidebar
+sidebar: news_sidebar
 permalink: intel.html
 summary: Experience at Intel Product Corp.
 folder: news

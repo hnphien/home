@@ -2,7 +2,7 @@
 title: "FPT Software"
 keywords: sample homepage
 tags: 
-sidebar: mydoc_sidebar
+sidebar: news_sidebar
 permalink: fpt.html
 summary: Experience at FPT Software.
 folder: news
