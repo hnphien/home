@@ -9,13 +9,13 @@ folder: news
 ---
 
 ## Senior Data Engineer | Big Data Hadoop
-###Big Data Platform:
+### Big Data Platform:
 - Work in Bosch Global SemiConductor data platform based on Apache Hadoop, Apache Spark, Apache Impala, Hive, etc.
 - Develop a new feature of ingestion ETL layer from multiple sources to HDFS.
 - Big Data batch and streaming processing using Apache Spark.
 - Debug and optimize Hadoop jobs.
 - Develop the loaders, transform the data and running the entire big data pipeline. 
-###Data Warehouse:
+### Data Warehouse:
 - Work in global team to design stable, reliable and effective databases with Data Vault 2.0 for Enterprise Data Warehouse of Robert Bosch GmbH.
 - Ensure all database programs meet company and performance requirements
 - Gather user requirements and identify new features
